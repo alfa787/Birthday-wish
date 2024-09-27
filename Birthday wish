@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Bismillah!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f9f9f9;
+            text-align: center;
+            padding: 50px;
+            color: #4A90E2;
+        }
+        h1 {
+            font-size: 50px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 30px;
+            margin-bottom: 20px;
+            color: #7B68EE;
+        }
+        p {
+            font-size: 20px;
+            color: #333;
+        }
+        #message {
+            background-color: #FFF;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+            margin: 20px auto;
+        }
+        .heart {
+            color: red;
+            font-size: 30px;
+        }
+        .image-container {
+            margin-top: 20px;
+        }
+        img {
+            width: 250px;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🎉 Happy Birthday, Bismillah! 🎉</h1>
+
+    <div id="message">
+        <h2>May Your Day Be Filled with Joy!</h2>
+        <p>
+            Wishing you all the happiness and love in the world today and always. 
+            May this special day bring you endless moments of joy, laughter, and cherished memories. 
+            <br><br>
+            You deserve all the best, and may this year be full of amazing things for you!
+        </p>
+        <p class="heart">❤️</p>
+    </div>
+
+    <div class="image-container">
+        <img src="https://via.placeholder.com/250x250.png?text=Happy+Birthday!" alt="Happy Birthday Image">
+    </div>
+
+</body>
+</html>
